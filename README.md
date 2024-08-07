@@ -3,7 +3,7 @@ Human-centric Emotional Video Captioning (H-EVC) aims to generate fine-grained, 
 
 # Requirements
 We use [Docker image of SwinBert](https://hub.docker.com/r/linjieli222/videocap_torch1.7/tags) for easier reproduction. Please install the following:
-nvidia driver (418+),
+Nvidia driver (418+),
 Docker (19.03+),
 nvidia-container-toolkit.
 We only support Linux with NVIDIA GPUs. We test on Ubuntu 18.04 and RTX 3090 Ti card. 
