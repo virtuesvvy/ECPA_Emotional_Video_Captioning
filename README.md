@@ -12,7 +12,7 @@ CUDA_VISIBLE_DEVICES=0 python src/tasks/run_caption_VidSwinBert_inference.py \
        --test_video_fname $VIDEO \
        --do_lower_case \
        --do_test 
-       
+ <video controls src="https://github.com/virtuesvvy/ECPA_Emotional_Video_Captioning/blob/master/samples/00721.mp4" title="Title"></video>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -24,7 +24,7 @@ CUDA_VISIBLE_DEVICES=0 python src/tasks/run_caption_VidSwinBert_inference.py \
     <div>
         <h3>Video Description</h3>
         <iframe width="640" height="360" src="https://youtu.be/AtGwEnN-5zk?si=lQX1nusmo2MWOz66" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%; border-radius: 8px;"></iframe>
-        <video controls src="https://github.com/virtuesvvy/ECPA_Emotional_Video_Captioning/blob/master/samples/00721.mp4" title="Title"></video>
+       
     </div>
 </body>
 </html>
