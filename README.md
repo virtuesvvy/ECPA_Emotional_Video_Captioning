@@ -12,7 +12,11 @@ CUDA_VISIBLE_DEVICES=0 python src/tasks/run_caption_VidSwinBert_inference.py \
        --test_video_fname $VIDEO \
        --do_lower_case \
        --do_test 
- <video controls src="https://github.com/virtuesvvy/ECPA_Emotional_Video_Captioning/blob/master/samples/00721.mp4" title="Title"></video>
+ 
+ 
+
+ [![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
