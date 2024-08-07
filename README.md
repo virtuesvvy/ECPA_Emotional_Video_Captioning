@@ -12,3 +12,20 @@ CUDA_VISIBLE_DEVICES=0 python src/tasks/run_caption_VidSwinBert_inference.py \
        --test_video_fname $VIDEO \
        --do_lower_case \
        --do_test 
+       
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Embed</title>
+</head>
+<body>
+    <div>
+        <h3>Video Description</h3>
+        <iframe width="640" height="360" src="https://youtu.be/AtGwEnN-5zk?si=lQX1nusmo2MWOz66" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%; border-radius: 8px;"></iframe>
+    </div>
+</body>
+</html>
+
+
